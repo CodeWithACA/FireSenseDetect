@@ -63,7 +63,7 @@ output_tr_smoked1.mp4|-1.0
 output_tr_smoked2.mp4|-2.85
 output_tr_smoked3.mp4|-4.55
 
-demo中采用output_tr_smoked2.mp4作为示例，对应的时间为2.85秒
+demo中采用output_tr_smoked2.mp4作为示例，对应的时间为-2.85秒
 ```bash
 python main.py -m f -i ./demo/output_rgb_smoked2.mp4  ./demo/output_tr_smoked2.mp4 -a -2.85
 ```
