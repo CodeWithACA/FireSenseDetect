@@ -2,7 +2,7 @@
 
 ## 简介
 本项目为2025[服务外包](http://www.fwwb.org.cn/)选题[A25](http://www.fwwb.org.cn/topic/show/55e695a5-0aa6-41dc-8c95-19742cb68d05)项目，旨在提供一个基于深度学习的去烟-融合-检测框架，后续开发可根据不同的根据需求进行扩展和优化。为便于后续模型转换，本项目模型使用ONNX格式以便于拓展，在安装时可根据需求选择是否安装GPU版本onnxruntime。
-[目标检测数据集和源码百度网盘](https://pan.baidu.com/s/1FM4Xi9-HIFrN2Lea2NFxEQ?pwd=xbn4 )
+[目标检测数据集和源码百度网盘](https://pan.baidu.com/s/1FM4Xi9-HIFrN2Lea2NFxEQ?pwd=xbn4 )，[去烟数据集和代码百度网盘](https://pan.baidu.com/s/1gIXaTw8SutkZUeWcTFv3qg?)
 
 ## 安装
 本项目基于Windows系统和RK3588开发板，使用Python3.9和onnxruntime的CPU版本进行测试。
